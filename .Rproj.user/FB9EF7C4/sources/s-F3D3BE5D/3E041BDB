@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553119095235.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3E041BDB",
+    "lastKnownWriteTime" : 1551304638,
+    "last_content_update" : 1551304638,
+    "path" : "E:/PetFinder/475/petData.R",
+    "project_path" : "petData.R",
+    "properties" : {
+        "cursorPosition" : "80,44",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

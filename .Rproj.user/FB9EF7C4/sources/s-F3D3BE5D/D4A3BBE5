@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554935208519.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D4A3BBE5",
+    "lastKnownWriteTime" : 1555507062,
+    "last_content_update" : -2147483648,
+    "path" : "E:/PetFinder/475/improvingModels.R",
+    "project_path" : "improvingModels.R",
+    "properties" : {
+        "cursorPosition" : "93,76",
+        "scrollLine" : "49",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
