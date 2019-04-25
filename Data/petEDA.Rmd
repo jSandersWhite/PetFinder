@@ -1,0 +1,15 @@
+---
+title: "petEDA"
+author: "Josh White"
+date: "February 27, 2019"
+output: html_document
+---
+
+# PetFinder Exploratory Data Analysis
+
+## Data Preview
+```{r pet}
+pet <- readRDS("pet.csv")
+head(pet)
+```
+
